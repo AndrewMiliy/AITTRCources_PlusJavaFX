@@ -21,8 +21,6 @@ dependencies {
     implementation("org.openjfx:javafx-base:17")
     implementation("org.openjfx:javafx-media:17")
     implementation("org.openjfx:javafx-web:17")
-
-
 }
 
 tasks.withType<JavaExec> {
