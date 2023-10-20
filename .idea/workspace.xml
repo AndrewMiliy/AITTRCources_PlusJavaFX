@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ac0a27f-de8d-4665-9d64-4ba2d727badb" name="Changes" comment="new LinkedList Class">
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Channel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/RemoteControl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/TV_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Television.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Transmission.java" afterDir="false" />
+    <list default="true" id="1ac0a27f-de8d-4665-9d64-4ba2d727badb" name="Changes" comment="L_33_HW_01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Channel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Channel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_33_HW_01/RemoteControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/RemoteControl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_33_HW_01/TV_Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/TV_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Transmission.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/TVShow.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697655431401</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="L_33_HW_01">
+      <option name="closed" value="true" />
+      <created>1697829046621</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1697829046621</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +120,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new FX project for cources&#10;+ &#10;DictionaryAppFX" />
     <MESSAGE value="new LinkedList Class" />
-    <option name="LAST_COMMIT_MESSAGE" value="new LinkedList Class" />
+    <MESSAGE value="L_33_HW_01" />
+    <option name="LAST_COMMIT_MESSAGE" value="L_33_HW_01" />
   </component>
 </project>

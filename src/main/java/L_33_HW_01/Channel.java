@@ -6,27 +6,27 @@ import java.util.Random;
 
 public class Channel {
     private int number;
-    private List<Transmission> transmissions;
+    private List<TVShow> tvShows;
 
     public Channel(int number) {
         this.number = number;
-        this.transmissions = new ArrayList<>();
+        this.tvShows = new ArrayList<>();
     }
 
-    public void addTransmission(Transmission transmission) {
-        transmissions.add(transmission);
+    public void addtvShow(TVShow transmission) {
+        tvShows.add(transmission);
     }
 
     public int getNumber() {
         return number;
     }
 
-    public Transmission getRandomTransmission() {
-        if (transmissions.isEmpty()) {
+    public TVShow getRandomtvShow() {
+        if (tvShows.isEmpty()) {
             return null;
         }
         Random random = new Random();
-        int index = random.nextInt(transmissions.size());
-        return transmissions.get(index);
+        int index = random.nextInt(tvShows.size());
+        return tvShows.get(index);
     }
 }

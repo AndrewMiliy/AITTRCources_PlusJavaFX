@@ -1,9 +1,9 @@
 package L_33_HW_01;
 
-public class Transmission {
+public class TVShow {
     private String name;
 
-    public Transmission(String name) {
+    public TVShow(String name) {
         this.name = name;
     }
 
@@ -13,7 +13,7 @@ public class Transmission {
 
     @Override
     public String toString() {
-        return "Transmission{" +
+        return "TVShow{" +
                 "name='" + name + '\'' +
                 '}';
     }

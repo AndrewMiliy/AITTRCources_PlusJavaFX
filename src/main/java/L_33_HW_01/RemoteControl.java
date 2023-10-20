@@ -10,9 +10,9 @@ public class RemoteControl {
     public void on(int channelNumber) {
         Channel channel = television.getChannelByNumber(channelNumber);
         if (channel != null) {
-            Transmission transmission = channel.getRandomTransmission();
-            if (transmission != null) {
-                System.out.println("Сейчас идет передача: " + transmission.getName() + " на канале " + channelNumber);
+            TVShow tvShow = channel.getRandomtvShow();
+            if (tvShow != null) {
+                System.out.println("Сейчас идет передача: " + tvShow.getName() + " на канале " + channelNumber);
             } else {
                 System.out.println("На канале " + channelNumber + " нет передач");
             }

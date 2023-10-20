@@ -5,13 +5,13 @@ public class TV_Main {
         // Создаем телевизор и добавляем каналы
         Television tv = new Television();
         Channel channel1 = new Channel(1);
-        channel1.addTransmission(new Transmission("Новости"));
-        channel1.addTransmission(new Transmission("Фильм 'Матрица'"));
+        channel1.addtvShow(new TVShow("Новости"));
+        channel1.addtvShow(new TVShow("Фильм 'Матрица'"));
         tv.addChannel(channel1);
 
         Channel channel2 = new Channel(2);
-        channel2.addTransmission(new Transmission("Сериал 'Друзья'"));
-        channel2.addTransmission(new Transmission("Мультфильм 'Шрек'"));
+        channel2.addtvShow(new TVShow("Сериал 'Друзья'"));
+        channel2.addtvShow(new TVShow("Мультфильм 'Шрек'"));
         tv.addChannel(channel2);
 
         RemoteControl remote = new RemoteControl(tv);
