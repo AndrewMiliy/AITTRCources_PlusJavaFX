@@ -4,18 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1ac0a27f-de8d-4665-9d64-4ba2d727badb" name="Changes" comment="new FX project for cources&#10;+ &#10;DictionaryAppFX">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/L_31/LinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/Difficulty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/DifficultyChoiceScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/GameScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/MainMenuScene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/SudokuApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/SudokuChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SudokuGame/SudokuGenerator.java" afterDir="false" />
+    <list default="true" id="1ac0a27f-de8d-4665-9d64-4ba2d727badb" name="Changes" comment="new LinkedList Class">
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Channel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/RemoteControl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/TV_Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Television.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/L_33_HW_01/Transmission.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,21 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "settings.editor.selected.configurable": "File.Encoding"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -93,7 +88,15 @@
       <option name="project" value="LOCAL" />
       <updated>1697642251279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new LinkedList Class">
+      <option name="closed" value="true" />
+      <created>1697655431401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1697655431401</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new FX project for cources&#10;+ &#10;DictionaryAppFX" />
-    <option name="LAST_COMMIT_MESSAGE" value="new FX project for cources&#10;+ &#10;DictionaryAppFX" />
+    <MESSAGE value="new LinkedList Class" />
+    <option name="LAST_COMMIT_MESSAGE" value="new LinkedList Class" />
   </component>
 </project>
